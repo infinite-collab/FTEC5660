@@ -1,0 +1,956 @@
+{
+  "scores": [
+    0.56,
+    0.76,
+    0.84,
+    0.0,
+    0.38000000000000006
+  ],
+  "reports": [
+    {
+      "cv_path": "CV_1.pdf",
+      "extracted": {
+        "name": "John Smith",
+        "locations": [
+          "ap-¶arker-alt Singapore, Singapore"
+        ],
+        "skills": [
+          "Content Creation SEO Social Media"
+        ],
+        "education": [
+          {
+            "school": "Mc Gill University Graduated",
+            "degree": "Bachelor of Science",
+            "years": [
+              2009
+            ]
+          },
+          {
+            "degree": "Bachelor of Science"
+          }
+        ],
+        "experience": [
+          {
+            "start_year": 2020,
+            "end_year": null,
+            "is_current": true,
+            "title": "Engineer",
+            "company": "Byte Dance"
+          }
+        ]
+      },
+      "matches": {
+        "linkedin": {
+          "search_result": {
+            "id": 9,
+            "name": "John Smith",
+            "headline": "Marketing Professional",
+            "industry": "Marketing",
+            "location": "Singapore, Singapore",
+            "years_experience": 7,
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 9,
+            "name": "John Smith",
+            "headline": "Marketing Professional",
+            "city": "Singapore",
+            "country": "Singapore",
+            "industry": "Marketing",
+            "status": "student",
+            "years_experience": 7,
+            "summary": "Tax century group simple reveal. Democrat manage main oil recognize. Study cup discover drop whom collection manage.",
+            "skills": [
+              {
+                "name": "Content Creation",
+                "proficiency": 4
+              },
+              {
+                "name": "SEO",
+                "proficiency": 3
+              },
+              {
+                "name": "Social Media",
+                "proficiency": 3
+              }
+            ],
+            "experience": [
+              {
+                "company": "ByteDance",
+                "title": "Engineer",
+                "seniority": "mid",
+                "start_year": 2020,
+                "end_year": null,
+                "is_current": false
+              }
+            ],
+            "education": [
+              {
+                "school": "McGill University",
+                "degree": "BSc",
+                "field": "Marketing",
+                "start_year": 2005,
+                "end_year": 2009
+              }
+            ]
+          },
+          "interactions": {
+            "profile_id": 9,
+            "post_count": 0,
+            "total_likes": 0,
+            "liked_by": [],
+            "engagement_score": 0.0
+          }
+        },
+        "facebook": {
+          "search_result": {
+            "id": 213,
+            "display_name": "John Smith",
+            "city": "Singapore",
+            "country": "Singapore",
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 213,
+            "display_name": "John Smith",
+            "original_name": "John Smith",
+            "city": "Singapore",
+            "country": "Singapore",
+            "hometown": "Hong Kong",
+            "bio": "Evidence ago much.  Amount travel find consumer door near president",
+            "status": "Engaged",
+            "education": "Bachelor's Degree",
+            "current_job": "Scientist",
+            "current_company": "Traveloka",
+            "interests": "Machine Learning, Reading, Cooking",
+            "friend_count": 34,
+            "friends": [
+              205,
+              471,
+              9093,
+              2344,
+              247,
+              1738,
+              4778,
+              9391,
+              283,
+              368,
+              5105,
+              3283,
+              4022,
+              6903,
+              5177,
+              1755,
+              5628,
+              5629,
+              1075,
+              1636,
+              2271,
+              3616,
+              4956,
+              5196,
+              5592,
+              5836,
+              7124,
+              7201,
+              8027,
+              8355,
+              8577,
+              8733,
+              9176,
+              9770
+            ],
+            "posts": [
+              {
+                "id": 1199,
+                "content": "New personal best in Machine Learning! Progress feels amazing ðª"
+              },
+              {
+                "id": 1200,
+                "content": "Late night ramen cravings = satisfied ð®"
+              },
+              {
+                "id": 1201,
+                "content": "Celebrating small wins today! ð"
+              },
+              {
+                "id": 1202,
+                "content": "Family dinner never gets old â¤ï¸ #blessed"
+              },
+              {
+                "id": 1203,
+                "content": "Cousins gathering! Haven't seen everyone in ages! ð¨âð©âð§âð¦"
+              }
+            ]
+          }
+        }
+      },
+      "issues": [
+        "linkedin_education_low_coverage",
+        "facebook_current_company_mismatch"
+      ],
+      "meta": {
+        "now_year": 2026
+      },
+      "score": 0.56
+    },
+    {
+      "cv_path": "CV_2.pdf",
+      "extracted": {
+        "name": "Minh Pham",
+        "locations": [
+          "Beijing, China",
+          "Hong Kong"
+        ],
+        "skills": [
+          "UI",
+          "UX Design"
+        ],
+        "education": [
+          {
+            "school": "The University of Hong Kong Skills",
+            "degree": "BSc",
+            "years": [
+              2011
+            ]
+          },
+          {
+            "school": "The University of Hong Kong Skills UI"
+          }
+        ],
+        "experience": [
+          {
+            "start_year": 2022,
+            "end_year": null,
+            "is_current": true,
+            "title": "Manager",
+            "company": "BCG"
+          },
+          {
+            "start_year": 2013,
+            "end_year": 2017,
+            "is_current": false,
+            "title": "Analyst",
+            "company": "Tencent"
+          }
+        ]
+      },
+      "matches": {
+        "linkedin": {
+          "search_result": {
+            "id": 47,
+            "name": "Minh Pham",
+            "headline": "Design Professional",
+            "industry": "Design",
+            "location": "Beijing, China",
+            "years_experience": 12,
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 47,
+            "name": "Minh Pham",
+            "headline": "Design Professional",
+            "city": "Beijing",
+            "country": "China",
+            "industry": "Design",
+            "status": "open_to_work",
+            "years_experience": 12,
+            "summary": "Choose reveal second allow evening authority. Difficult official already build onto. Between measure born feel reach. Subject later generation when.",
+            "skills": [
+              {
+                "name": "UI/UX",
+                "proficiency": 1
+              },
+              {
+                "name": "Prototyping",
+                "proficiency": 5
+              },
+              {
+                "name": "Graphic Design",
+                "proficiency": 1
+              }
+            ],
+            "experience": [
+              {
+                "company": "BCG",
+                "title": "Manager",
+                "seniority": "junior",
+                "start_year": 2022,
+                "end_year": null,
+                "is_current": true
+              },
+              {
+                "company": "Tencent",
+                "title": "Analyst",
+                "seniority": "junior",
+                "start_year": 2013,
+                "end_year": 2017,
+                "is_current": false
+              }
+            ],
+            "education": [
+              {
+                "school": "The University of Hong Kong",
+                "degree": "BSc",
+                "field": "Design",
+                "start_year": 2007,
+                "end_year": 2011
+              }
+            ]
+          },
+          "interactions": {
+            "profile_id": 47,
+            "post_count": 3,
+            "total_likes": 2,
+            "liked_by": [
+              8474,
+              6902
+            ],
+            "engagement_score": 0.67
+          }
+        },
+        "facebook": {
+          "search_result": {
+            "id": 70,
+            "display_name": "Minh Pham",
+            "city": "Beijing",
+            "country": "China",
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 70,
+            "display_name": "Minh Pham",
+            "original_name": "Minh Pham",
+            "city": "Beijing",
+            "country": "China",
+            "hometown": "Hong Kong",
+            "bio": "Discover last dream fall significant build soldier.  Must field time old which minute teach",
+            "status": "In a civil union",
+            "education": "Master's Degree",
+            "current_job": "Engineer",
+            "current_company": "Manulife",
+            "interests": "Machine Learning, Research, Music Production",
+            "friend_count": 48,
+            "friends": [
+              4865,
+              5515,
+              5901,
+              6679,
+              4762,
+              7967,
+              2082,
+              4273,
+              5430,
+              5309,
+              4160,
+              9030,
+              5318,
+              6219,
+              3661,
+              3406,
+              7635,
+              1108,
+              84,
+              7002,
+              3943,
+              5611,
+              242,
+              4345,
+              1916,
+              115,
+              533,
+              718,
+              844,
+              971,
+              973,
+              1049,
+              1128,
+              1968,
+              2462,
+              2890,
+              3082,
+              5295,
+              5504,
+              5737,
+              5827,
+              5967,
+              6560,
+              6699,
+              8461,
+              9300,
+              9795,
+              9817
+            ],
+            "posts": [
+              {
+                "id": 401,
+                "content": "Another year older, another year wiser ð¥"
+              },
+              {
+                "id": 402,
+                "content": "Hit a new gym milestone today! Consistency pays off ðª"
+              },
+              {
+                "id": 403,
+                "content": "2024 goals: Less stress, more Machine Learning"
+              },
+              {
+                "id": 404,
+                "content": "Networking event in Beijing last night. Made great connections!"
+              },
+              {
+                "id": 405,
+                "content": "Living my best life in Beijing! ð"
+              }
+            ]
+          }
+        }
+      },
+      "issues": [
+        "facebook_current_company_mismatch"
+      ],
+      "meta": {
+        "now_year": 2026
+      },
+      "score": 0.76
+    },
+    {
+      "cv_path": "CV_3.pdf",
+      "extracted": {
+        "name": "Wei Zhang",
+        "locations": [
+          "Munich, Germany"
+        ],
+        "skills": [
+          "Analytical Data Analysis Problem Solving"
+        ],
+        "education": [],
+        "experience": [
+          {
+            "start_year": 2013,
+            "end_year": null,
+            "is_current": true,
+            "title": "Engineer",
+            "company": "Pw C"
+          }
+        ]
+      },
+      "matches": {
+        "linkedin": {
+          "search_result": {
+            "id": 97,
+            "name": "Wei Zhang",
+            "headline": "Consulting Professional",
+            "industry": "Consulting",
+            "location": "Munich, Germany",
+            "years_experience": 15,
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 97,
+            "name": "Wei Zhang",
+            "headline": "Consulting Professional",
+            "city": "Munich",
+            "country": "Germany",
+            "industry": "Consulting",
+            "status": "hiring",
+            "years_experience": 15,
+            "summary": "Debate but be believe situation season. They with carry tough wide economy wind. Forward police professional scene whatever ever foreign able.",
+            "skills": [
+              {
+                "name": "Data Analysis",
+                "proficiency": 5
+              },
+              {
+                "name": "PowerPoint",
+                "proficiency": 5
+              },
+              {
+                "name": "Problem Solving",
+                "proficiency": 1
+              },
+              {
+                "name": "Strategy",
+                "proficiency": 5
+              }
+            ],
+            "experience": [
+              {
+                "company": "PwC",
+                "title": "Engineer",
+                "seniority": "junior",
+                "start_year": 2013,
+                "end_year": null,
+                "is_current": false
+              }
+            ],
+            "education": [
+              {
+                "school": "University of Tokyo",
+                "degree": "BSc",
+                "field": "Consulting",
+                "start_year": 2011,
+                "end_year": 2015
+              }
+            ]
+          },
+          "interactions": {
+            "profile_id": 97,
+            "post_count": 0,
+            "total_likes": 0,
+            "liked_by": [],
+            "engagement_score": 0.0
+          }
+        },
+        "facebook": {
+          "search_result": {
+            "id": 97,
+            "display_name": "Wei Zhang",
+            "city": "Munich",
+            "country": "Germany",
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 97,
+            "display_name": "Wei Zhang",
+            "original_name": "Wei Zhang",
+            "city": "Munich",
+            "country": "Germany",
+            "hometown": "Munich",
+            "bio": "Living in Munich | Public Speaking enthusiast | Consulting",
+            "status": "Divorced",
+            "education": "Bachelor's Degree",
+            "current_job": "Engineer",
+            "current_company": "PwC",
+            "interests": "Public Speaking, Networking, Music Production, Concerts",
+            "friend_count": 49,
+            "friends": [
+              4868,
+              4359,
+              8976,
+              2193,
+              9875,
+              28,
+              3234,
+              1828,
+              3365,
+              678,
+              6954,
+              2864,
+              5424,
+              8625,
+              1717,
+              7997,
+              9022,
+              8384,
+              9026,
+              322,
+              455,
+              6873,
+              3301,
+              7272,
+              8943,
+              9970,
+              5236,
+              4340,
+              117,
+              3705,
+              600,
+              625,
+              1125,
+              1656,
+              2608,
+              2931,
+              2990,
+              5275,
+              5523,
+              6004,
+              6563,
+              6832,
+              7372,
+              7742,
+              7881,
+              8666,
+              8791,
+              9361,
+              9591
+            ],
+            "posts": [
+              {
+                "id": 551,
+                "content": "Family dinner never gets old â¤ï¸ #blessed"
+              },
+              {
+                "id": 552,
+                "content": "Friday mood! Weekend plans? ð"
+              },
+              {
+                "id": 553,
+                "content": "That Monday feeling... need coffee â"
+              }
+            ]
+          }
+        }
+      },
+      "issues": [],
+      "meta": {
+        "now_year": 2026
+      },
+      "score": 0.84
+    },
+    {
+      "cv_path": "CV_4.pdf",
+      "extracted": {
+        "name": "Rahul Sharma",
+        "locations": [
+          "Singapore",
+          "Philippines"
+        ],
+        "skills": [
+          "Compliance Litigation Contract Review"
+        ],
+        "education": [
+          {
+            "school": "Tsinghua University Skills Compliance"
+          }
+        ],
+        "experience": [
+          {
+            "start_year": 2021,
+            "end_year": 2027,
+            "is_current": false,
+            "title": "Senior Engineer",
+            "company": "Microsoft"
+          },
+          {
+            "start_year": 2020,
+            "end_year": 2023,
+            "is_current": false,
+            "title": "Consultant",
+            "company": "Startup XYZ"
+          }
+        ]
+      },
+      "matches": {
+        "linkedin": {
+          "search_result": {
+            "id": 547,
+            "name": "Rahul Sharma",
+            "headline": "Logistics Professional",
+            "industry": "Logistics",
+            "location": "Singapore, Singapore",
+            "years_experience": 0,
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 547,
+            "name": "Rahul Sharma",
+            "headline": "Logistics Professional",
+            "city": "Singapore",
+            "country": "Singapore",
+            "industry": "Logistics",
+            "status": "open_to_work",
+            "years_experience": 0,
+            "summary": "Early cup call paper box. Economic success finish vote radio. Rate create decision speak. Item bed different nature condition cut.",
+            "skills": [
+              {
+                "name": "Operations",
+                "proficiency": 4
+              },
+              {
+                "name": "Supply Chain",
+                "proficiency": 4
+              },
+              {
+                "name": "Inventory Management",
+                "proficiency": 5
+              }
+            ],
+            "experience": [
+              {
+                "company": "Meta",
+                "title": "Manager",
+                "seniority": "senior",
+                "start_year": 2008,
+                "end_year": null,
+                "is_current": true
+              }
+            ],
+            "education": [
+              {
+                "school": "University of Sydney",
+                "degree": "BSc",
+                "field": "Logistics",
+                "start_year": 2016,
+                "end_year": 2020
+              }
+            ]
+          },
+          "interactions": {
+            "profile_id": 547,
+            "post_count": 2,
+            "total_likes": 4,
+            "liked_by": [
+              4008,
+              3963,
+              9716,
+              9981
+            ],
+            "engagement_score": 2.0
+          }
+        },
+        "facebook": {
+          "search_result": {
+            "id": 7,
+            "display_name": "Rahul Sharma",
+            "city": "Sha Tin",
+            "country": "Hong Kong",
+            "match_type": "exact"
+          },
+          "profile": {}
+        }
+      },
+      "issues": [
+        "future_years:[2027]",
+        "linkedin_experience_low_coverage",
+        "linkedin_education_low_coverage"
+      ],
+      "meta": {
+        "now_year": 2026
+      },
+      "score": 0.0
+    },
+    {
+      "cv_path": "CV_5.pdf",
+      "extracted": {
+        "name": "Rahul Sharma",
+        "locations": [
+          "London",
+          "Hong Kong",
+          "Singapore"
+        ],
+        "skills": [
+          "Machine Learning AI"
+        ],
+        "education": [],
+        "experience": [
+          {
+            "start_year": 2019,
+            "end_year": 2021,
+            "is_current": false,
+            "company": "Startup XYZ"
+          },
+          {
+            "start_year": 2016,
+            "end_year": null,
+            "is_current": true,
+            "company": "Data Forge"
+          },
+          {
+            "start_year": 2010,
+            "end_year": 2017,
+            "is_current": false,
+            "company": "Urban Flow"
+          }
+        ]
+      },
+      "matches": {
+        "linkedin": {
+          "search_result": {
+            "id": 5941,
+            "name": "Rahul Sharma",
+            "headline": "AI Professional",
+            "industry": "AI",
+            "location": "London, UK",
+            "years_experience": 16,
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 5941,
+            "name": "Rahul Sharma",
+            "headline": "AI Professional",
+            "city": "London",
+            "country": "UK",
+            "industry": "AI",
+            "status": "hiring",
+            "years_experience": 16,
+            "summary": "Military option both. Guess item end behind through market whether. Yet young call authority music account traditional. Training serve again nature so. Church worker husband executive.",
+            "skills": [
+              {
+                "name": "ML",
+                "proficiency": 3
+              },
+              {
+                "name": "TensorFlow",
+                "proficiency": 1
+              },
+              {
+                "name": "NLP",
+                "proficiency": 5
+              },
+              {
+                "name": "Python",
+                "proficiency": 4
+              }
+            ],
+            "experience": [
+              {
+                "company": "GreenLeaf Co",
+                "title": "Engineer",
+                "seniority": "junior",
+                "start_year": 2014,
+                "end_year": null,
+                "is_current": false
+              },
+              {
+                "company": "PwC",
+                "title": "Manager",
+                "seniority": "mid",
+                "start_year": 2010,
+                "end_year": null,
+                "is_current": true
+              }
+            ],
+            "education": [
+              {
+                "school": "KAIST",
+                "degree": "PhD",
+                "field": "AI",
+                "start_year": 2003,
+                "end_year": 2006
+              }
+            ]
+          },
+          "interactions": {
+            "profile_id": 5941,
+            "post_count": 0,
+            "total_likes": 0,
+            "liked_by": [],
+            "engagement_score": 0.0
+          }
+        },
+        "facebook": {
+          "search_result": {
+            "id": 12,
+            "display_name": "Rahul Sharma",
+            "city": "London",
+            "country": "UK",
+            "match_type": "exact"
+          },
+          "profile": {
+            "id": 12,
+            "display_name": "Rahul Sharma",
+            "original_name": "Rahul Sharma",
+            "city": "London",
+            "country": "UK",
+            "hometown": "London",
+            "bio": "Themselves TV training PM the range.  Possible police red throughout there change president car",
+            "status": "Divorced",
+            "education": "Doctoral Degree",
+            "current_job": "Manager",
+            "current_company": "PwC",
+            "interests": "Problem Solving, Operations Management, Digital Art, Photography",
+            "friend_count": 56,
+            "friends": [
+              1541,
+              4744,
+              3980,
+              269,
+              1170,
+              3092,
+              3093,
+              8729,
+              8988,
+              7458,
+              8484,
+              2213,
+              6139,
+              808,
+              9385,
+              4010,
+              8744,
+              427,
+              9522,
+              2745,
+              9273,
+              3143,
+              6730,
+              4049,
+              3178,
+              5866,
+              7027,
+              123,
+              127,
+              754,
+              903,
+              1274,
+              1436,
+              1482,
+              1938,
+              1980,
+              2299,
+              2382,
+              3674,
+              4161,
+              4317,
+              4394,
+              4440,
+              5133,
+              5941,
+              6192,
+              6369,
+              6504,
+              6862,
+              6894,
+              7671,
+              7730,
+              7811,
+              8031,
+              8996,
+              9100
+            ],
+            "posts": [
+              {
+                "id": 66,
+                "content": "Celebrating small wins today! ð"
+              },
+              {
+                "id": 67,
+                "content": "Found the best Vietnamese restaurant in London! Highly recommend ð"
+              },
+              {
+                "id": 68,
+                "content": "Cousins gathering! Haven't seen everyone in ages! ð¨âð©âð§âð¦"
+              },
+              {
+                "id": 69,
+                "content": "Friday mood! Weekend plans? ð"
+              },
+              {
+                "id": 70,
+                "content": "Weekend getaway to London. Exactly what I needed! ðºï¸"
+              },
+              {
+                "id": 71,
+                "content": "Missing the food in London already ð"
+              },
+              {
+                "id": 72,
+                "content": "Working towards my goals, one step at a time ð£"
+              }
+            ]
+          }
+        }
+      },
+      "issues": [
+        "linkedin_experience_low_coverage",
+        "facebook_current_company_mismatch",
+        "overlapping_experience_years"
+      ],
+      "meta": {
+        "now_year": 2026
+      },
+      "score": 0.38000000000000006
+    }
+  ]
+}
