@@ -1,5 +1,10 @@
-## Homework2 Readme
+# Homework 2 README
 
-This folder contains my Homework 2 submission. The file "homework2 part1.pdf" has the answers for Part 1, and "homework2_part1_run.py" is the script to run Part 1. The file "hw2_solution.py" contains my solution code.
+  This repository contains my submission for Homework 2.
 
-For Part 2, "homework2 part2.ipynb" is the notebook, and "homework2 part2.pdf" is the PDF version of the notebook.
+  For **Part 1**, I have included both the original and the improved final version.
+  The original implementation is in `hw2_solution.py`, and it can be run with `homework2_part1_run.py`.
+  The original report is `homework2_part1.pdf`.
+  The improved version is `homework2_work1_final.ipynb`, and I also include its updated report file.
+
+  For **Part 2**, the notebook is `homework2_part2.ipynb`, and the PDF version is `homework2_part2.pdf`.
