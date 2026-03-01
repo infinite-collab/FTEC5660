@@ -1,0 +1,1 @@
+﻿This folder contains my HW3 submission report. The reproduction and evaluation code is in https://github.com/infinite-collab/AgentGroup, and the main benchmark file I implemented and modified is scripts/reproduce_table3_openai.py.
